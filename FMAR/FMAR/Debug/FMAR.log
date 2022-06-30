@@ -1,0 +1,17 @@
+﻿  iMain.cpp
+G:\Projects\FMAR\FMAR\iMain.cpp(24,1): warning C4005: 'heartHeight': macro redefinition
+G:\Projects\FMAR\FMAR\iMain.cpp(15): message : see previous definition of 'heartHeight'
+G:\Projects\FMAR\FMAR\iMain.cpp(617,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+G:\Projects\FMAR\FMAR\iMain.cpp(628,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+G:\Projects\FMAR\FMAR\iMain.cpp(639,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Projects\FMAR\FMAR\iMain.cpp(654,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Projects\FMAR\FMAR\iMain.cpp(661,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Projects\FMAR\FMAR\iMain.cpp(689,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Projects\FMAR\FMAR\iMain.cpp(690,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Projects\FMAR\FMAR\iMain.cpp(691,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Projects\FMAR\FMAR\iMain.cpp(711,3): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+G:\Projects\FMAR\FMAR\iMain.cpp(712,3): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+G:\Projects\FMAR\FMAR\iMain.cpp(740,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+glaux.lib(tk.obj) : error LNK2019: unresolved external symbol _sscanf referenced in function _GetRegistrySysColors@8
+glaux.lib(tk.obj) : error LNK2019: unresolved external symbol _vsprintf referenced in function _PrintMessage
+G:\Projects\FMAR\Debug\FMAR.exe : fatal error LNK1120: 2 unresolved externals
